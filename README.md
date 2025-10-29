@@ -6,7 +6,7 @@
 
 ## 🧠 Overview
 
-**NexaLearn** is an innovative virtual reality learning platform designed to make online education immersive and intelligent.
+**MetaClass** is an innovative virtual reality learning platform designed to make online education immersive and intelligent.
 It uses **sensor data from Meta Quest headsets** combined with **machine learning models** to measure and enhance student attentiveness in real-time.
 
 This project bridges the gap between traditional and online learning, empowering teachers to adapt their lectures dynamically based on live feedback from student attentiveness data.
@@ -16,7 +16,7 @@ This project bridges the gap between traditional and online learning, empowering
 ## 🎥 Project Demo
 
 🎬 **Watch the full demo here:**
-👉 [NexaLearn Project Demo (Google Drive)](https://drive.google.com/file/d/1I7rVLe9jFG95XB17pVmkOht2I7sGnBij/view?usp=sharing)
+👉 [MetaClass Project Demo (Google Drive)](https://drive.google.com/file/d/1I7rVLe9jFG95XB17pVmkOht2I7sGnBij/view?usp=sharing)
 
 ---
 
@@ -50,8 +50,8 @@ This project bridges the gap between traditional and online learning, empowering
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/NexaLearn.git
-cd NexaLearn
+git clone [https://github.com/moji-joji/metaclass-ai/blob/main/README.md)](https://github.com/moji-joji/metaclass-ai.git)
+cd metaclass-ai
 ```
 
 ### 2. Access the Unity Project
