@@ -50,7 +50,7 @@ This project bridges the gap between traditional and online learning, empowering
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/moji-joji/metaclass-ai/blob/main/README.md)](https://github.com/moji-joji/metaclass-ai.git)
+git clone https://github.com/moji-joji/metaclass-ai.git
 cd metaclass-ai
 ```
 
