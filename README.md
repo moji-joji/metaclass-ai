@@ -1,10 +1,6 @@
-Got it. Here’s your finalized **GitHub README.md**, cleanly structured and with the relevant demo, Unity project, and model links added in the right places:
+# 🎓 MetaClass: Attentiveness Detection in a Metaverse Classroom
 
----
-
-# 🎓 NexaLearn: Attentiveness Detection in a Metaverse Classroom
-
-> A VR-powered metaverse classroom that detects and enhances student attentiveness using real-time sensor data, AI models, and immersive 3D learning environments.
+> An AI-powered metaverse classroom that detects and enhances student attentiveness using real-time sensor data, AI models, and immersive 3D learning environments.
 
 ---
 
