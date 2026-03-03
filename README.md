@@ -13,10 +13,9 @@ This project bridges the gap between traditional and online learning, empowering
 
 ---
 
-## 🎥 Project Demo
+## 🎥 Project Report
 
-🎬 **Watch the full demo here:**
-👉 [MetaClass Project Demo (Google Drive)](https://drive.google.com/file/d/1I7rVLe9jFG95XB17pVmkOht2I7sGnBij/view?usp=sharing)
+👉 [MetaClass Project Report and Demo](https://drive.google.com/drive/folders/1Um9HThjMoAsndiawDfsPynn0y3UsOhzq?usp=sharing)
 
 ---
 
